@@ -28,7 +28,7 @@ public class MainActivity extends FragmentActivity {
 		CirclePageIndicator indicator = (CirclePageIndicator) findViewById(R.id.circle);
 		indicator.setViewPager(viewpager);
 		
-		
+		//test Github
 		
 		
 //		viewpager.setOnPageChangeListener(new OnPageChangeListener() {
